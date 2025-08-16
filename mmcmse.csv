@@ -1,0 +1,512 @@
+paper_id,keyword,type,context
+4,IBM,Maturity Model,"The IBM DevOps approach consists of four dimensions: plan and measure, develop and test, release and deploy and monitor and optimise."
+4,Mohamed,Maturity Model,"This maturity model has five levels of maturity, with each level being assessed against quality, automation, collaboration and governance."
+4,CapGemini,Maturity Model,"Manages DevOps transformation through culture, process, tools, architecture and security."
+4,HP,Maturity Model,"Applies CMMI's five maturity levels to processes, automation and collaboration."
+4,Bucena,Maturity Model,"Focuses on five levels of maturity across technology, process, people and culture."
+4,EfiCode,Maturity Model,"Includes dimensions like organisation and culture, environments, CI, QA and metrics."
+4,De Feijter,Maturity Model,"Measures culture, product/process/quality, and foundation across 10 maturity levels."
+4,Continuum Maturity Assessment Model,Maturity Model,Used by the bank to self-assess and guide continuous improvement without targeting a mature end state.
+4,Lead Time,Metric,Lead time is one of the four key metrics for measuring software delivery performance.
+4,Deployment Frequency,Metric,Deployment frequency is one of the DORA metrics to measure throughput.
+4,Mean Time to Restore (MTTR),Metric,MTTR is used to evaluate stability by measuring time to remediate incidents.
+4,Change Fail Rate,Metric,Change fail percentage indicates the quality of the release process.
+4,Unit Cost,Metric,Unit cost was tracked to evaluate the cost-effectiveness of DevOps transformation.
+4,Employee Satisfaction,Metric,Staff satisfaction was measured via the Organisational Health Index (OHI).
+4,Predictability,Metric,Predictability of software releases reached 68%.
+4,Productivity,Metric,Productivity increased by 60% as part of the DevOps journey.
+4,Change Success Rate,Metric,Operational excellence is measured in terms of change success rates.
+4,Risk Score,Metric,Risk and conduct scores are tracked as a performance indicator.
+4,Cultural Transformation,Success Factor,Cultural interventions such as servant leadership supported the DevOps transformation.
+4,"You build it, you run it",Success Factor,Merger of development and operations teams improved accountability and collaboration.
+4,Scaled Agile Framework (SAFe),Success Factor,The adoption of SAFe supported strategic alignment and feature delivery.
+4,Case Study,Evaluation Method,A case study approach was used to analyze the impact of DevOps maturity models.
+4,Business Value Orientation,Criterion,The Continuum model focused on business outcomes rather than process optimization.
+4,Model Comprehensiveness,Criterion,The Continuum model is more comprehensive than others.
+4,Number of Maturity Levels,Criterion,"De Feijter model includes 10 levels, others 4 or 5."
+15,Mean Time To Recover (MTTR),Metric,"M01 - Measures time to recover from failures, cited 96 times."
+15,Mean Lead-time for Changes (MLT),Metric,"M02 - Indicates speed from commit to production, cited 91 times."
+15,Deployment Frequency (DF),Metric,"M03 - Captures how often changes are deployed, cited 88 times."
+15,Change Failure Rate (CFR),Metric,"M04 - Tracks how often production changes fail, cited 72 times."
+15,Service Availability and Uptime,Metric,M05 - Indicates system availability percentage.
+15,Application Response Time,Metric,M08 - Assesses user experience via response delays.
+15,Westrum Organizational Culture Measures,Metric,M18 - Tracks cultural health and supportiveness.
+15,Team Happiness,Metric,Metric M42 - Proposed during interviews as a cultural KPI.
+15,Talent Retention,Metric,Metric M59 - Added to assess employee continuity and satisfaction.
+15,Design Science Research,Evaluation Method,Used as the main methodology involving artifact design and semi-structured interviews.
+15,Multivocal Literature Review (MLR),Evaluation Method,Used for gathering both academic and gray literature.
+15,Semi-Structured Interviews,Evaluation Method,Used to refine and validate capabilities and metrics.
+15,Capability-Metric Alignment,Criterion,Relationships between capabilities and metrics were systematically mapped.
+15,Frequency-Based Selection,Criterion,Only metrics cited at least 10 times were retained.
+15,Automation Across Pipeline,Success Factor,Practitioners emphasized automation beyond just CI/CD.
+15,Team Autonomy,Success Factor,Mentioned as an enabler through self-service platforms.
+15,Cultural KPIs,Success Factor,Team happiness and talent retention as key transformation indicators.
+27,Sprint Planning and Execution ,Maturity Model,The model includes stages from ad-hoc sprint planning to integrated toolchain-driven maturity.
+27,Velocity,Metric,Velocity was tracked to measure team performance over sprints.
+27,Sprint Completion Rate,Metric,Sprint completion rate indicated success in planning and estimation.
+27,Bug Rate,Metric,Bug rate was used to track quality and estimation misalignments.
+27,Lead Time,Metric,Lead time tracked time from task creation to completion.
+27,Cycle Time,Metric,Cycle time measured efficiency from development start to delivery.
+27,Agile Culture Adoption,Success Factor,Agile culture was cited as necessary for tool adoption and maturity progression.
+27,Collaborative Estimation,Success Factor,Teams that practiced collaborative estimation had more accurate sprint planning.
+27,Real-time Progress Feedback,Success Factor,Tools that enabled feedback loops enhanced delivery confidence.
+27,Survey,Evaluation Method,A practitioner survey was used to assess tool usage and maturity correlation.
+27,Expert Interview,Evaluation Method,Expert interviews confirmed patterns observed in the survey.
+37,Automation,Success Factor,Automation is cited as a critical factor for enabling continuous delivery and improving consistency.
+37,Organizational Culture,Success Factor,A DevOps culture promoting collaboration and shared responsibility was essential.
+37,Collaboration and Communication,Success Factor,Communication across development and operations teams was frequently emphasized.
+37,Customer Orientation,Success Factor,A focus on customer feedback and satisfaction emerged as a key success factor.
+37,Monitoring and Feedback Loops,Success Factor,Monitoring tools and feedback loops supported rapid response and learning.
+37,Management Support,Success Factor,Support from top management enabled DevOps adoption and scaling.
+37,Training and Skill Development,Success Factor,Skill-building initiatives were necessary to equip teams for new tools and workflows.
+37,Security and Compliance Integration,Success Factor,Shifting security left and embedding compliance into the pipeline improved trust.
+37,Toolchain Integration,Success Factor,Integrated toolchains enhanced traceability and automation.
+37,Team Autonomy,Success Factor,Empowering teams to make decisions independently contributed to agility.
+37,Leadership Commitment,Success Factor,Leadership commitment was necessary for cultural transformation.
+37,Systematic Literature Review,Evaluation Method,The study is based on a systematic review of 61 primary studies.
+37,Frequency of Occurrence,Criterion,Success factors were categorized based on their frequency in reviewed papers.
+37,Thematic Classification,Criterion,"Factors were grouped into categories such as culture, technical, and managerial."
+56,Automation,Success Factor,Automation of infrastructure setup through IaC accelerated environment provisioning.
+56,Reproducibility,Success Factor,IaC enhances reproducibility of environments and reduces configuration drift.
+56,Standardization,Success Factor,IaC contributes to standardizing deployment procedures.
+56,Collaboration,Success Factor,IaC enables better collaboration by treating infrastructure definitions as code.
+56,Case Study,Evaluation Method,A case study was conducted to assess IaC's effect on maturity.
+56,Configuration Drift Reduction,Criterion,The paper evaluates how IaC reduces configuration drift across environments.
+56,Automation Coverage,Criterion,The extent of automation through IaC was used to gauge maturity improvements.
+60,Deployment Frequency,Metric,Deployment frequency was the most cited metric across DevOps studies.
+60,Lead Time,Metric,Lead time was frequently used to assess delivery performance.
+60,Mean Time to Recovery (MTTR),Metric,MTTR was identified as a common metric for operational stability.
+60,Change Failure Rate,Metric,Change failure rate was cited as a quality indicator.
+60,Customer Satisfaction,Metric,Customer satisfaction was used to assess business value outcomes.
+60,Team Productivity,Metric,Team productivity was commonly used to evaluate efficiency.
+60,Code Quality,Metric,Code quality was tracked through automated testing and static analysis.
+60,Cycle Time,Metric,Cycle time was found in multiple studies as a process efficiency metric.
+60,Security Incidents,Metric,Security incidents were reported as DevSecOps-oriented success metrics.
+60,Systematic Literature Review,Evaluation Method,A systematic review methodology was applied across 68 primary studies.
+60,Metric Frequency,Criterion,Metrics were ranked by their frequency of appearance across studies.
+60,Metric Classification,Criterion,"Metrics were grouped into categories: performance, quality, and business."
+98,MMBDO Maturity Model,Maturity Model,The MMBDO model (Maturity Model for BizDevOps) is introduced to assess BizDevOps capabilities across lifecycle processes.
+98,Process Capability Assessment,Evaluation Method,The MMBDO model assesses process capabilities across lifecycle stages using a scale from NI to E.
+98,Lifecycle Coverage,Criterion,"The model includes process areas such as acquisition, supply, and implementation."
+98,Capability Maturity Levels,Criterion,"Each capability is assessed on a scale: NI (Not Implemented), I (Implemented), M (Managed), N (New), E (Established)."
+107,"selection criteria, tool with highest score is being chosen",Criterion,"selection criteria, tool with highest score is being chosen"
+107,these evaluation or selection criteria,Criterion,these evaluation or selection criteria
+107,"tasks or activities as the selection criteria in routine viz.,",Criterion,"tasks or activities as the selection criteria in routine viz.,"
+107,evaluation criteria,Criterion,evaluation criteria
+107,These criteria also termed as activities,Criterion,These criteria also termed as activities
+107,These criteria are also adaptable to any kind of,Criterion,These criteria are also adaptable to any kind of
+107,The practices or criteria used by DevOps for tool selection,Criterion,The practices or criteria used by DevOps for tool selection
+107,Criteria for a General Purpose Software System,Criterion,Criteria for a General Purpose Software System
+107,Performance Measure of Project Management Automation Tool based on DevOps Selection Criteria for a General,Criterion,Performance Measure of Project Management Automation Tool based on DevOps Selection Criteria for a General
+107,various criteria as day to day activities also termed as tasks,Criterion,various criteria as day to day activities also termed as tasks
+107,SELECTION CRITERIA FOR OPTIMAL,Criterion,SELECTION CRITERIA FOR OPTIMAL
+107,The selection criteria for acquisition of alternative tools are,Criterion,The selection criteria for acquisition of alternative tools are
+107,"criteria include – Continuous Prioritization, Dependencies",Criterion,"criteria include – Continuous Prioritization, Dependencies"
+107,The rest of this research paper talks briefly of these criteria or,Criterion,The rest of this research paper talks briefly of these criteria or
+107,Performance Measure of Project Management Automation Tool based on DevOps Selection Criteria for a General,Criterion,Performance Measure of Project Management Automation Tool based on DevOps Selection Criteria for a General
+107,criteria,Criterion,criteria
+107,These selection criteria acts as the bases for analyzing,Criterion,These selection criteria acts as the bases for analyzing
+107,Criteria,Criterion,Criteria
+107,Criteria,Criterion,Criteria
+107,criteria that are efficacious for persona of a Delivery,Criterion,criteria that are efficacious for persona of a Delivery
+107,"Opting the best of these selection criteria, a right",Criterion,"Opting the best of these selection criteria, a right"
+107,criteria,Criterion,criteria
+107,DevOps along with its different tool selection criteria for,Criterion,DevOps along with its different tool selection criteria for
+108,Automation,Success Factor,Automation was identified as a critical factor for improving speed and reducing human error in DevOps and Cloud adoption.
+108,Team Collaboration,Success Factor,"Team collaboration between development, operations, and cloud teams enhances DevOps success."
+108,Top Management Support,Success Factor,Support from top management facilitates resource allocation and strategic alignment.
+108,Training and Skill Development,Success Factor,Adequate training ensures that teams can adopt new tools and practices.
+108,Organizational Culture,Success Factor,A culture supporting agility and experimentation is essential for DevOps and Cloud transformation.
+108,Monitoring and Feedback,Success Factor,Monitoring systems provide critical feedback for continuous improvement.
+108,Cloud Readiness,Criterion,Organizational readiness for cloud is assessed as a precondition for DevOps success.
+108,Maturity Level,Criterion,Organizations were evaluated based on their maturity level in DevOps and Cloud capabilities.
+108,Interviews,Evaluation Method,Data was collected from expert interviews across IT organizations.
+108,Survey,Evaluation Method,A survey was conducted to validate the factors and assess their influence.
+159,Toolchain Integration,Success Factor,Integrated toolchains are necessary for traceability and compliance.
+159,Certification Readiness,Criterion,Preparedness of components for certification was used to evaluate progress.
+159,Test Evidence Automation,Criterion,Automation of test evidence generation was a key metric for certification suitability.
+159,Case Study,Evaluation Method,A case study of certification preparation in a cloud-based solution was conducted.
+172,Lines of Code (LOC),Metric,LOC is one of the metrics computed by the AnsibleMetrics library.
+172,Number of Tasks,Metric,The number of tasks is used to quantify the complexity of playbooks.
+172,Number of Modules,Metric,The metric counts distinct modules used within Ansible tasks.
+172,Cyclomatic Complexity,Metric,Cyclomatic complexity is used to estimate the decision complexity of playbooks.
+172,Open-source Tool Evaluation,Evaluation Method,The tool was evaluated through analysis of real-world Ansible repositories.
+177,DoD Acquisition Process,Criterion,DevOps was adapted within the constraints of U.S. DoD acquisition lifecycle.
+177,Schedule Adherence,Metric,Measured adherence to planned release timelines.
+177,Release Frequency,Metric,Release frequency increased as DevOps practices matured.
+177,Code Integration Latency,Metric,The delay between code creation and integration was tracked as a performance metric.
+177,Case Study,Evaluation Method,A case study was conducted on the CREATE program under DoD.
+183,Automation,Success Factor,Automation is ranked highest among success factors using PROMETHEE-II.
+183,Continuous Integration,Success Factor,CI is evaluated as a key factor contributing to DevOps success.
+183,Infrastructure as Code,Success Factor,"IaC enables consistent environments, improving DevOps outcomes."
+183,Monitoring and Feedback,Success Factor,Identified as crucial for continuous learning and improvement.
+183,Collaboration,Success Factor,Effective collaboration among teams influences DevOps adoption.
+183,Organizational Culture,Success Factor,Culture supporting openness and experimentation aids success.
+183,Top Management Support,Success Factor,Leadership support enables sustained investment and alignment.
+183,Training and Skill Development,Success Factor,Upskilling team members facilitates tool and practice adoption.
+183,Security Integration,Success Factor,Embedding security early improves compliance and resilience.
+183,PROMETHEE-II,Evaluation Method,Used to prioritize DevOps success factors based on decision-making criteria.
+183,Preference Ranking,Criterion,Factors were ranked using a multi-criteria decision-making approach.
+183,Relative Importance Score,Metric,Each factor received a normalized score for comparison.
+185,Deployment Frequency,Metric,Deployment frequency is cited as a key DevOps performance metric.
+185,Lead Time,Metric,Lead time is frequently used to assess delivery performance.
+185,Change Failure Rate,Metric,Change failure rate is noted as an indicator of deployment quality.
+185,Mean Time to Recovery (MTTR),Metric,MTTR measures operational stability after failure.
+185,Code Quality,Metric,Code quality is discussed in terms of maintainability and readability.
+185,Security Metrics,Metric,"Security-related metrics are mentioned, especially for DevSecOps."
+185,Customer Satisfaction,Metric,Used as a high-level business metric to evaluate DevOps impact.
+185,Bibliometric Analysis,Evaluation Method,A bibliometric study was conducted to categorize DevOps metrics research.
+185,Citation Frequency,Criterion,Metrics were analyzed based on how frequently they appeared in published research.
+196,Engineering Effectiveness Model,Evaluation Method,Model calculates the productivity gain from platform engineers in large orgs.
+196,Service Level Objectives (SLOs),Metric,Used by SREs to measure system reliability goals.
+196,Standardization,Criterion,Critical to boosting engineering effectiveness across all teams.
+200,Deployment Frequency,Metric,One of the most important DevOps metrics measuring how often new releases are deployed.
+200,Lead Time for Changes,Metric,Measures the time it takes for a committed code to reach production.
+200,Change Failure Rate,Metric,Percentage of changes that result in failure in production.
+200,Mean Time to Recovery (MTTR),Metric,Measures the average time to recover from a production failure.
+200,Stability Metrics,Metric,Includes MTTR and Change Failure Rate.
+200,Velocity Metrics,Metric,Includes Deployment Frequency and Lead Time.
+200,DORA Metrics,Criterion,The paper refers to DORA's four key metrics as a DevOps industry standard.
+200,Survey and Industry Reports,Evaluation Method,Metrics discussed are backed by large-scale survey results such as the State of DevOps report.
+200,Benchmarking,Evaluation Method,Teams compare their DevOps performance against industry benchmarks.
+207,Toolchain Integration,Success Factor,Toolchain integration was identified as a critical factor in addressing DevOps challenges.
+207,Automation,Success Factor,Automation reduces human error and accelerates delivery in DevOps pipelines.
+207,Monitoring,Success Factor,Continuous monitoring supports proactive issue resolution.
+207,Collaboration,Success Factor,Effective communication across teams reduces delivery bottlenecks.
+207,Cultural Change,Success Factor,Shifting team mindset is essential for successful DevOps adoption.
+207,Security Integration,Success Factor,Incorporating security early ensures compliance and risk mitigation.
+207,Training and Skill Development,Success Factor,Upskilling is required to keep pace with evolving tools and practices.
+207,Infrastructure as Code,Success Factor,IaC enhances consistency and enables automated deployments.
+207,Analytical Hierarchy Process (AHP),Evaluation Method,Used to rank DevOps challenges based on expert feedback.
+207,Relative Weight,Metric,Each factor was assigned a weight based on AHP prioritization.
+207,Decision Hierarchy,Criterion,The hierarchy model structures DevOps challenges for analysis.
+216,DoD Test and Evaluation Environment,Criterion,The study is conducted in the context of U.S. Department of Defense T&E systems.
+216,Case Study,Evaluation Method,A case study demonstrates STAT application in an operational test.
+224,Capability Maturity Model,Maturity Model,A grounded capability maturity framework is proposed based on qualitative data.
+224,Grounded Theory,Evaluation Method,The framework was derived using grounded theory methodology.
+224,Qualitative Interviews,Evaluation Method,Semi-structured interviews were conducted with industry practitioners.
+224,Organizational Learning,Success Factor,Organizations that learn from feedback can improve sustainability outcomes.
+224,Stakeholder Alignment,Success Factor,Aligning stakeholders is key to embedding sustainable practices.
+224,Socio-Technical System,Criterion,The paper evaluates software development as an interplay between social and technical systems.
+234,Decision-Making Framework,Evaluation Method,The paper proposes a structured framework to guide DevOps decisions.
+234,Stakeholder Involvement,Success Factor,Active participation of stakeholders is essential for DevOps adoption.
+234,Cultural Transformation,Success Factor,Organizational culture change is a key enabler of DevOps.
+234,Collaboration,Success Factor,Effective collaboration between teams facilitates continuous delivery.
+234,Metrics and KPIs,Criterion,The framework emphasizes monitoring KPIs to evaluate progress.
+234,Organizational Readiness,Criterion,The framework includes assessing readiness for DevOps adoption.
+234,Framework Validation,Evaluation Method,The framework was validated through expert evaluation and literature review.
+239,DevOps Success Factors,Success Factor,The paper identifies multiple success factors for effective DevOps adoption from literature.
+239,Systematic Literature Review,Evaluation Method,A systematic review was conducted to collect and analyze primary studies.
+239,Toolchain Integration,Success Factor,Integration of tools across development and operations was frequently cited.
+239,Automation,Success Factor,"Automation of testing, deployment, and infrastructure is critical for DevOps success."
+239,Collaboration,Success Factor,Cross-functional collaboration is a key enabler of DevOps.
+239,Cultural Change,Success Factor,Organizational culture was noted as a primary influencing factor.
+239,Top Management Support,Success Factor,Leadership involvement was emphasized across multiple studies.
+239,Training and Education,Success Factor,Continuous learning is vital for tool and process adoption.
+239,Categorization Framework,Evaluation Method,A framework was developed to categorize success factors.
+248,Deployment Frequency,Metric,One of the most commonly cited DevOps metrics used to track release frequency.
+248,Lead Time for Changes,Metric,Measures time taken from code commit to production release.
+248,Change Failure Rate,Metric,Indicates the proportion of failed deployments.
+248,Mean Time to Recovery (MTTR),Metric,Tracks time needed to restore service after a failure.
+248,Customer Satisfaction,Metric,High-level outcome metric related to product quality and delivery speed.
+248,Cycle Time,Metric,Measures time taken to complete a development cycle.
+248,Availability,Metric,Used to monitor system uptime and reliability.
+248,Code Quality,Metric,Metric associated with static code analysis and maintainability.
+248,Security Metrics,Metric,Includes vulnerability scanning and security compliance indicators.
+248,Multivocal Literature Review,Evaluation Method,Used to gather insights from both academic and grey literature.
+248,DORA Metrics,Criterion,"Deployment frequency, lead time, MTTR, and change failure rate were frequently cited as standard metrics."
+248,Practitioner Reports,Evaluation Method,Industry reports were used to validate and enrich academic findings.
+248,Metric Categorization Framework,Evaluation Method,Framework created to classify metrics by category and scope.
+249,Critical Success Factors,Success Factor,The study identifies a taxonomy of critical success factors (CSFs) for DevOps.
+249,Multivocal Literature Review,Evaluation Method,The paper combines academic and grey literature sources to identify CSFs.
+249,Automation,Success Factor,"Automation of testing, deployment, and provisioning is identified as a key CSF."
+249,Organizational Culture,Success Factor,A collaborative and trust-based culture is foundational to DevOps.
+249,Collaboration,Success Factor,Effective communication between Dev and Ops teams is critical.
+249,Leadership Support,Success Factor,Management commitment is essential to resource allocation and transformation.
+249,Training and Knowledge Sharing,Success Factor,Skill development and internal learning contribute to successful DevOps.
+249,Tool Integration,Success Factor,Integration across the DevOps toolchain streamlines delivery.
+250,Readiness Model for COSD (RMCOSD),Maturity Model,A model designed to evaluate readiness levels for outsourced DevOps software development.
+250,Capability Maturity Model Integration (CMMI),Maturity Model,Used as a reference structure to design the RMCOSD readiness levels.
+250,Critical Success Factors (CSFs),Success Factor,Key elements that influence the success of COSD adoption.
+250,Critical Barriers (CBs),Success Factor,Key obstacles to successful COSD implementation.
+250,Systematic Literature Review (SLR),Evaluation Method,Used to identify success factors and challenges in the literature.
+250,Questionnaire Survey,Evaluation Method,Employed to gather data from industry experts about COSD practices.
+250,Case Study,Evaluation Method,Proposed for validating the RMCOSD model in a real-world setting.
+251,In 28th International Conference on Evaluation and Assessment in Software,Evaluation Method,In 28th International Conference on Evaluation and Assessment in Software
+251,"best practices, it did not explore the challenges and success factors",Success Factor,"best practices, it did not explore the challenges and success factors"
+251,"4) environment to adopt DevOps culture, and 5) assessment and",Evaluation Method,"4) environment to adopt DevOps culture, and 5) assessment and"
+251,there is a lack of assessment models and hands-on DevOps-based,Evaluation Method,there is a lack of assessment models and hands-on DevOps-based
+251,"prehend the primary challenges, success factors, and best practices",Success Factor,"prehend the primary challenges, success factors, and best practices"
+251,"existing literature to pinpoint key challenges, success factors, and",Success Factor,"existing literature to pinpoint key challenges, success factors, and"
+252,inclusion and exclusion criteria,Criterion,inclusion and exclusion criteria
+252,directly examined impediments and critical success factors,Success Factor,directly examined impediments and critical success factors
+252,reviews and meta-analyses of studies that evaluate healthcare,Evaluation Method,reviews and meta-analyses of studies that evaluate healthcare
+252,the 22nd International Conference on Evaluation and Assessment in,Evaluation Method,the 22nd International Conference on Evaluation and Assessment in
+252,Understanding DevOps critical success factors,Success Factor,Understanding DevOps critical success factors
+254,Capability Maturity Model Integration (CMMI),Maturity Model,Referenced model for assessing maturity in DevOps environments.
+254,CALMS,Maturity Model,"Culture, Automation, Lean, Measurement, Sharing – foundational DevOps maturity model."
+254,HP ,Maturity Model,One of the examined industry maturity models.
+254,Eficode ,Maturity Model,Industry-specific DevOps maturity model focusing on pipelines.
+254,Measurement,Criterion,Measurement is identified as one of the dimensions of maturity.
+254,Culture,Criterion,Organizational culture is a key dimension for assessing maturity.
+254,Automation,Criterion,Automation of processes is used as a metric of maturity.
+254,Lean Processes,Criterion,Lean thinking and waste reduction are considered in maturity evaluation.
+254,Sharing,Criterion,Collaboration and sharing culture are part of maturity measurement.
+254,Assessment Methods,Evaluation Method,Qualitative and quantitative approaches used to assess maturity.
+256,The inclusion criteria for the articles in this research,Criterion,The inclusion criteria for the articles in this research
+256,ARTICLE INCLUSION CRITERIA,Criterion,ARTICLE INCLUSION CRITERIA
+256,Assessment of Reflective Measurement Model,Evaluation Method,Assessment of Reflective Measurement Model
+256,The reflective measurement model was evaluated first to,Evaluation Method,The reflective measurement model was evaluated first to
+256,Inclusion Criteria,Criterion,Inclusion Criteria
+256,"Larcker criterion, and Heterotrait-Monotrait ratios (HTMT)",Criterion,"Larcker criterion, and Heterotrait-Monotrait ratios (HTMT)"
+256,Assessment of Structural Model,Evaluation Method,Assessment of Structural Model
+256,the measurement model was to evaluate the structural model,Evaluation Method,the measurement model was to evaluate the structural model
+256,reviews and meta-analyses of studies that evaluate healthcare,Evaluation Method,reviews and meta-analyses of studies that evaluate healthcare
+256,International Conference on Evaluation and Assessment in Software,Evaluation Method,International Conference on Evaluation and Assessment in Software
+258,"absence of a well-defined metric, software performance can",Metric,"absence of a well-defined metric, software performance can"
+258,DevOps and Cloud-related success criteria are compiled after,Criterion,DevOps and Cloud-related success criteria are compiled after
+258,and contrast the outcomes of measuring metrics for Java,Metric,and contrast the outcomes of measuring metrics for Java
+258,academics who investigate the metrics for software,Metric,academics who investigate the metrics for software
+258,The multi-criteria decision making issues are best resolved by,Criterion,The multi-criteria decision making issues are best resolved by
+258,terms of its numerous criterion management and ease of,Criterion,terms of its numerous criterion management and ease of
+258,grained metrics with which to anticipate and shape future,Metric,grained metrics with which to anticipate and shape future
+258,"management success factors: A decision-making framework"", Software:",Success Factor,"management success factors: A decision-making framework"", Software:"
+258,Taxonomy of DevOps Success Factors Using Preference Ranking,Success Factor,Taxonomy of DevOps Success Factors Using Preference Ranking
+258,Assessment,Evaluation Method,Assessment
+258,"Mittal, ""Performance Assessment of Traditional",Evaluation Method,"Mittal, ""Performance Assessment of Traditional"
+258,"management success factors: A decision-making framework"", Software:",Success Factor,"management success factors: A decision-making framework"", Software:"
+258,Taxonomy of DevOps Success Factors Using Preference Ranking,Success Factor,Taxonomy of DevOps Success Factors Using Preference Ranking
+267,DevSecOps Metrics,Metric,"Security-focused metrics tailored for DevSecOps pipelines, covering shift-left practices."
+267,Traceability,Criterion,Used to measure how security defects are tracked throughout the pipeline.
+267,Security Coverage,Metric,"Extent to which security tools cover code base, dependencies, and infrastructure."
+267,Quality Gates,Criterion,Used to evaluate compliance and code quality at various stages.
+267,Compliance Score,Metric,Quantitative indicator of adherence to security policies and regulations.
+272,Capability Maturity Model Integration (CMMI),Maturity Model,Used as the reference model in evaluating DevOps capability maturity.
+272,DevOps Capability Maturity Model (DCMM),Maturity Model,Proposed model combining DevOps and CMMI dimensions.
+272,Assessment Framework,Evaluation Method,Framework for mapping and evaluating DevOps maturity with CMMI.
+272,Measurement,Criterion,Considered a crucial element in assessing DevOps progress.
+272,Culture,Criterion,Organizational culture assessed to determine DevOps maturity.
+272,Quantitative Analysis,Evaluation Method,Used to analyze metrics and validate mapping results.
+282,Maintainability,Metric,One of the quality metrics measured by TerraMetrics.
+282,Complexity,Metric,Evaluated to understand the maintainability of Terraform modules.
+282,Security,Metric,Quality metric computed based on security-sensitive patterns.
+282,IaC Quality Metrics,Metric,Refers to the collection of static code metrics defined for Terraform.
+282,Module Reusability,Metric,Analyzed as a quality aspect of Terraform infrastructure modules.
+282,Static Code Analysis,Evaluation Method,Used by TerraMetrics to analyze Terraform code quality.
+334,Performance Metrics,Metric,Inference latency and throughput used to evaluate recommendation model efficiency.
+334,Latency Evaluation,Evaluation Method,ETUDE evaluates average and 95th percentile latency.
+334,GPU Resource Utilization,Metric,Measured as part of latency and throughput evaluation.
+339,Quantitative Maturity Assessment,Evaluation Method,A method for assessing DevSecOps maturity using metric aggregation.
+339,Security Metrics,Metric,Used to evaluate practices such as vulnerability scanning and policy compliance.
+339,Security Incident Response Time,Metric,Used to assess responsiveness to detected threats.
+339,Security Testing Coverage,Metric,Indicates how comprehensively tests cover potential vulnerabilities.
+354,"creation to status updates based on predefined criteria, these",Criterion,"creation to status updates based on predefined criteria, these"
+354,"Emerging Trends in Software Metrics, Florence, Italy, 2015, pp",Metric,"Emerging Trends in Software Metrics, Florence, Italy, 2015, pp"
+428,License Compliance,Criterion,SBOMs help ensure all software components comply with their respective licenses.
+429,Educational Alignment,Criterion,Alignment between DevOps practices in academia and industry expectations.
+441,problematic in terms of its management and assessment; in,Evaluation Method,problematic in terms of its management and assessment; in
+441,metrics,Metric,metrics
+454,DevOps Metrics,Metric,The study systematically identifies DevOps metrics for software development organizations.
+454,Deployment Frequency,Metric,Frequency of successful software releases to production.
+454,Lead Time for Changes,Metric,"Time taken to implement, test, and release a change."
+454,Change Failure Rate,Metric,Percentage of deployments causing a failure in production.
+454,Mean Time to Recovery (MTTR),Metric,Time to restore service after a failure.
+454,Performance Measurement,Evaluation Method,Assessing software delivery effectiveness via DevOps metrics.
+463,Security Metrics Framework,Evaluation Method,Framework used to evaluate DevSecOps performance.
+463,Security Score,Metric,Calculated score that reflects project security level based on metric aggregation.
+463,Quantitative Security Assessment,Evaluation Method,FOBICS uses numeric scoring to reflect project security.
+485,Performance Metrics,Metric,Indicators such as deployment frequency and recovery time.
+504,Maturity Assessment,Evaluation Method,Assessing maturity level of BizDevOps practices.
+504,International Standards,Criterion,Uses ISO/IEC 330xx and 29110 standards for maturity evaluation.
+554,Task Diversity,Criterion,"Evaluating agents across diverse IT scenarios including deployment, remediation, and ticket handling."
+554,Benchmarking,Evaluation Method,Standardized evaluation methodology for comparing agent performance.
+554,Execution Accuracy,Metric,Measures the correctness of an agent’s actions on IT tasks.
+554,Latency,Metric,Time taken to complete a task or respond to an IT event.
+554,Success Rate,Metric,Percentage of tasks completed successfully by the agent.
+560,Test Coverage,Metric,Percentage of code covered by automated tests.
+623,Success Factors,Criterion,Identified elements enabling successful digital transformation in software development.
+641,Success Factors,Criterion,Key enablers identified for successful DevOps project outcomes.
+641,Decision-Making Framework,Evaluation Method,A structured model to evaluate and prioritize success factors.
+641,Multicriteria Decision Making,Evaluation Method,Analytical method used to weigh different project management factors.
+641,Performance Metrics,Metric,"Used to assess project efficiency, reliability, and delivery speed."
+642,Human Factors,Criterion,"Individual skills, team behavior, and organizational culture affecting security."
+642,Maturity Model,Evaluation Method,Framework to assess the development of people capabilities.
+643,Systematic Literature Review,Evaluation Method,A structured analysis of existing research on DevOps maturity.
+643,Maturity Model,Evaluation Method,Frameworks used to evaluate DevOps practices across maturity levels.
+643,People,Criterion,"Skills, mindset, and collaboration among DevOps teams."
+643,Process,Criterion,"DevOps workflows, practices, and governance mechanisms."
+643,Technology,Criterion,Tooling and infrastructure enabling DevOps maturity.
+643,Capability Maturity Model Integration (CMMI),Maturity Model,One of the referenced models for assessing maturity.
+643,Assessment Criteria,Criterion,Key dimensions used to evaluate maturity across models.
+643,Success Factors,Criterion,Enablers that drive DevOps maturity and transformation.
+643,Radstaak,Maturity Model,"levels are Initial, Managed, Defined, Quantitatively Managed, Optimizing"
+643,neubrand,Maturity Model,"The Neubrand DevOps Maturity Model comprises 5 maturity levels and evaluates DevOps practices using six main dimensions: Culture, People, Process, Technology, Monitoring, and Quality."
+670,ready-to-use tools that allow developers to test and evaluate,Evaluation Method,ready-to-use tools that allow developers to test and evaluate
+670,test and evaluate their functionalities,Evaluation Method,test and evaluate their functionalities
+670,"Then, we evaluate an IIoT",Evaluation Method,"Then, we evaluate an IIoT"
+670,"becomes key to evaluate them in a comparable environment,",Evaluation Method,"becomes key to evaluate them in a comparable environment,"
+670,their assessment within the Near-RT RIC framework,Evaluation Method,their assessment within the Near-RT RIC framework
+670,evaluates the platform utilizing metrics such as session estab-,Metric,evaluates the platform utilizing metrics such as session estab-
+670,Our study introduces an assessment framework for xApps,Evaluation Method,Our study introduces an assessment framework for xApps
+670,we employ simulation to evaluate the performances of xApps,Evaluation Method,we employ simulation to evaluate the performances of xApps
+670,"and evaluated using xSTART, in a similar manner to how",Evaluation Method,"and evaluated using xSTART, in a similar manner to how"
+670,current developers test and evaluate their Android apps with,Evaluation Method,current developers test and evaluate their Android apps with
+670,deployed in its environment: it is possible to evaluate a single,Evaluation Method,deployed in its environment: it is possible to evaluate a single
+670,can be tested and evaluated with xSTART,Evaluation Method,can be tested and evaluated with xSTART
+670,collection of detailed statistics on diverse network metrics on,Metric,collection of detailed statistics on diverse network metrics on
+670,"Instead, they can be fully decoupled and evaluated",Evaluation Method,"Instead, they can be fully decoupled and evaluated"
+670,"To evaluate xSTART, we developed different xApps whose",Evaluation Method,"To evaluate xSTART, we developed different xApps whose"
+670,"Finally, these xApps have been evaluated using xSTART’s",Evaluation Method,"Finally, these xApps have been evaluated using xSTART’s"
+670,assess the precision and execution times of the six evaluated,Evaluation Method,assess the precision and execution times of the six evaluated
+670,of different metrics: R2 score in Fig,Metric,of different metrics: R2 score in Fig
+670,to test and evaluate their xApps,Evaluation Method,to test and evaluate their xApps
+695,Learning: Prediction Through Evaluation Metrics,Metric,Learning: Prediction Through Evaluation Metrics
+695,"Comprehensive evaluation metrics, including",Metric,"Comprehensive evaluation metrics, including"
+695,"cross-validation, ensure thorough performance assessment",Evaluation Method,"cross-validation, ensure thorough performance assessment"
+695,DevSecOps; Evaluation metrics; Vulnerability mitigation; Testing,Metric,DevSecOps; Evaluation metrics; Vulnerability mitigation; Testing
+695,"six classiﬁers are utilized to evaluate the goal.JM1, CM1, and",Evaluation Method,"six classiﬁers are utilized to evaluate the goal.JM1, CM1, and"
+695,"including McCabe, Halstead, and some other metrics like",Metric,"including McCabe, Halstead, and some other metrics like"
+695,19 CK and McCabe metrics,Metric,19 CK and McCabe metrics
+695,distinct features—one outcome and 21 different metrics—that,Metric,distinct features—one outcome and 21 different metrics—that
+695,metric for predictive models based on the confusion matrix,Metric,metric for predictive models based on the confusion matrix
+695,ables and metric measurement values are present in these,Metric,ables and metric measurement values are present in these
+695,"software module defect using software metrics, the proposed",Metric,"software module defect using software metrics, the proposed"
+695,"Performance criteria such as recall, F1 score, accuracy, and",Criterion,"Performance criteria such as recall, F1 score, accuracy, and"
+695,A decision tree classiﬁer is a non parametric machine,Metric,A decision tree classiﬁer is a non parametric machine
+695,ideal input attribute is selected using node splitting criteria,Criterion,ideal input attribute is selected using node splitting criteria
+695,It is a nonparametric machine learning,Metric,It is a nonparametric machine learning
+695,ment to evaluate the effectiveness of seven distinct classi-,Evaluation Method,ment to evaluate the effectiveness of seven distinct classi-
+695,another type of classiﬁcation metric,Metric,another type of classiﬁcation metric
+695,"the F1 metric, Decision Tree and Random Forest beat Na¨ıve",Metric,"the F1 metric, Decision Tree and Random Forest beat Na¨ıve"
+695,source code metrics”,Metric,source code metrics”
+695,and metrics”,Metric,and metrics”
+695,“Software fault prediction metrics:,Metric,“Software fault prediction metrics:
+705,Security tools evaluation,Evaluation Method,Process of assessing tools used in DevSecOps pipelines based on specific security criteria.
+705,Tool Selection Criteria,Criterion,"Criteria such as accuracy, integration ability, performance, and scalability are used to evaluate security tools."
+706,Security Risk Assessment,Evaluation Method,Method of evaluating software vulnerabilities and threats within DevOps workflows.
+706,Security Metrics,Metric,Measures used to quantify the effectiveness of security practices in DevOps.
+707,Maturity Models,Evaluation Method,Frameworks used to assess the evolution and adoption of secure development practices.
+707,Capability Maturity Model Integration (CMMI),Maturity Model,Referenced for evaluating secure development practices.
+707,OpenSAMM,Maturity Model,Used to measure and improve software security posture.
+718,Predictive Modeling,Evaluation Method,Used to estimate project success probability in DevOps using historical data.
+718,Software Metrics,Metric,Metrics such as code complexity and process maturity are used as model inputs.
+718,Cost-Effectiveness,Criterion,An evaluation criterion balancing prediction performance with computational cost.
+718,Regression Analysis,Evaluation Method,Used to validate predictive model performance.
+718,Accuracy,Metric,Used to measure the performance of the predictive models.
+718,Schedule Adherence,Metric,One of the criteria used to define project success in the DevOps context.
+728,CI/CD Security Maturity Model,Maturity Model,A staged model proposed to evaluate and improve security in continuous integration and deployment pipelines.
+728,Pipeline Security Stages,Evaluation Method,"The model defines levels of maturity such as Basic, Managed, Defined, Measured, and Optimizing."
+728,Compliance,Criterion,Assessed as part of maturity evaluation to align with security policies.
+750,DORA Metrics,Metric,"Four key metrics used to measure software delivery performance: Deployment Frequency, Lead Time for Changes, Mean Time to Recovery, and Change Failure Rate."
+750,Deployment Frequency,Metric,How often an organization deploys code to production.
+750,Lead Time for Changes,Metric,Time taken from code commit to code successfully running in production.
+750,Mean Time to Recovery (MTTR),Metric,Time it takes to restore service after an incident.
+750,Change Failure Rate,Metric,The percentage of deployments causing a failure in production.
+765,The primary objective of this paper is to evaluate the effectiveness of various DevOps,Evaluation Method,The primary objective of this paper is to evaluate the effectiveness of various DevOps
+765,Through detailed evaluation metrics and,Metric,Through detailed evaluation metrics and
+765,The primary objective of this paper is to evaluate the effectiveness of various DevOps security,Evaluation Method,The primary objective of this paper is to evaluate the effectiveness of various DevOps security
+765,"By employing detailed evaluation metrics and benchmarks, this paper aims to provide",Metric,"By employing detailed evaluation metrics and benchmarks, this paper aims to provide"
+765,Description of the Research Approach and Criteria for Tool Selection,Criterion,Description of the Research Approach and Criteria for Tool Selection
+765,This study employs a systematic approach to evaluate the effectiveness of various DevOps security,Evaluation Method,This study employs a systematic approach to evaluate the effectiveness of various DevOps security
+765,The selection criteria for the tools were based on several factors:,Criterion,The selection criteria for the tools were based on several factors:
+765,Metrics and Benchmarks for Evaluating Tool Effectiveness,Metric,Metrics and Benchmarks for Evaluating Tool Effectiveness
+765,"To systematically evaluate the effectiveness of the selected security tools, a set of metrics and",Metric,"To systematically evaluate the effectiveness of the selected security tools, a set of metrics and"
+765,These metrics include:,Metric,These metrics include:
+765,This metric measures the tool's ability to identify security issues in the codebase or,Metric,This metric measures the tool's ability to identify security issues in the codebase or
+765,"results were then analyzed based on the defined metrics, and a comparative analysis was conducted",Metric,"results were then analyzed based on the defined metrics, and a comparative analysis was conducted"
+765,The selection of DevOps security tools for this study was guided by specific criteria to ensure a,Criterion,The selection of DevOps security tools for this study was guided by specific criteria to ensure a
+765,The criteria for selection included:,Criterion,The criteria for selection included:
+765,A detailed analysis was conducted to evaluate each tool's ability to detect security vulnerabilities,Evaluation Method,A detailed analysis was conducted to evaluate each tool's ability to detect security vulnerabilities
+765,"The assessment focused on common vulnerabilities such as SQL injection, cross-site scripting",Evaluation Method,"The assessment focused on common vulnerabilities such as SQL injection, cross-site scripting"
+765,This study evaluated the,Evaluation Method,This study evaluated the
+765,"real-time feedback, such as those evaluated in this study, enhance the overall efficiency and",Evaluation Method,"real-time feedback, such as those evaluated in this study, enhance the overall efficiency and"
+766,Financial Metrics,Metric,"Cost-related indicators integrated into pipeline operations, such as cloud resource usage and deployment cost."
+766,Deployment Budget Guardrails,Evaluation Method,Policies or automation enforcing limits on CI/CD resource consumption.
+772,Model Interpretability,Metric,The ability of engineers to understand and trust GenAI output.
+772,Skill Gap Analysis,Evaluation Method,Assessment of the knowledge and skills required to effectively use GenAI.
+803,Performance Metrics,Metric,"Indicators such as build frequency, lead time, and failure rate used to evaluate CI/CD efficiency."
+803,False Positive Rate,Metric,Used to measure the reliability of anomaly detection systems in the CI/CD context.
+819,Visualizing Testing Metrics to Showcase ROI in CI/CD Pipelines,Metric,Visualizing Testing Metrics to Showcase ROI in CI/CD Pipelines
+819,Metrics,Metric,Metrics
+819,"Testing metrics play a critical role within these pipelines, providing insights into the",Metric,"Testing metrics play a critical role within these pipelines, providing insights into the"
+819,This article explores how visualizing testing metrics,Metric,This article explores how visualizing testing metrics
+819,By analyzing testing metrics through robust visual,Metric,By analyzing testing metrics through robust visual
+819,"Testing metrics, CI/CD pipelines, visualization, ROI, continuous integration, continuous",Metric,"Testing metrics, CI/CD pipelines, visualization, ROI, continuous integration, continuous"
+819,Testing metrics within these pipelines are critical for ensuring code,Metric,Testing metrics within these pipelines are critical for ensuring code
+819,"However, the impact of these metrics on business outcomes,",Metric,"However, the impact of these metrics on business outcomes,"
+819,Visualizing testing metrics presents a solution to this problem,Metric,Visualizing testing metrics presents a solution to this problem
+819,"of visualization techniques, metric selection, and evaluation strategies, this research investigates",Metric,"of visualization techniques, metric selection, and evaluation strategies, this research investigates"
+819,how visualizing testing metrics can effectively demonstrate ROI,Metric,how visualizing testing metrics can effectively demonstrate ROI
+819,"Testing metrics in CI/CD pipelines encompass various types of data, including test coverage,",Metric,"Testing metrics in CI/CD pipelines encompass various types of data, including test coverage,"
+819,Research has shown that these metrics,Metric,Research has shown that these metrics
+819,"measurement of these metrics, CI/CD pipelines may fail to achieve their intended benefits of speed",Metric,"measurement of these metrics, CI/CD pipelines may fail to achieve their intended benefits of speed"
+819,"However, traditional reporting formats often struggle to communicate the value of these metrics",Metric,"However, traditional reporting formats often struggle to communicate the value of these metrics"
+819,Visualizing testing metrics also aligns with broader trends in software engineering towards data-,Metric,Visualizing testing metrics also aligns with broader trends in software engineering towards data-
+819,"reviews, and visual metrics can facilitate these processes by offering a clear snapshot of pipeline",Metric,"reviews, and visual metrics can facilitate these processes by offering a clear snapshot of pipeline"
+819,"Furthermore, modern DevOps practices encourage frequent assessment of",Evaluation Method,"Furthermore, modern DevOps practices encourage frequent assessment of"
+819,operational metrics to guide improvements,Metric,operational metrics to guide improvements
+819,Testing metrics visualization thus serves as a practical,Metric,Testing metrics visualization thus serves as a practical
+819,tool for aligning CI/CD pipeline metrics with overarching business goals,Metric,tool for aligning CI/CD pipeline metrics with overarching business goals
+819,explore the value of visualizing testing metrics in CI/CD pipelines,Metric,explore the value of visualizing testing metrics in CI/CD pipelines
+819,"main phases: data collection, metric selection, and visualization development",Metric,"main phases: data collection, metric selection, and visualization development"
+819,"First, testing metrics",Metric,"First, testing metrics"
+819,"Next, metrics were selected based on their relevance to ROI in software development",Metric,"Next, metrics were selected based on their relevance to ROI in software development"
+819,Metrics like,Metric,Metrics like
+819,"After collecting and selecting metrics, a variety of visualization techniques were applied, including",Metric,"After collecting and selecting metrics, a variety of visualization techniques were applied, including"
+819,The study's visualizations of testing metrics effectively demonstrated the ROI of CI/CD pipelines,Metric,The study's visualizations of testing metrics effectively demonstrated the ROI of CI/CD pipelines
+819,"This metric was especially pertinent to the ROI discussion, as faster",Metric,"This metric was especially pertinent to the ROI discussion, as faster"
+819,"greater appreciation for the role of testing metrics in supporting CI/CD pipelines, with stakeholders",Metric,"greater appreciation for the role of testing metrics in supporting CI/CD pipelines, with stakeholders"
+819,"Visualizing testing metrics thus enhanced the pipeline's transparency, fostering collaboration",Metric,"Visualizing testing metrics thus enhanced the pipeline's transparency, fostering collaboration"
+819,of testing metrics in CI/CD pipelines not only clarified ROI but also encouraged a culture of,Metric,of testing metrics in CI/CD pipelines not only clarified ROI but also encouraged a culture of
+819,Visualizing testing metrics within CI/CD pipelines can significantly improve the visibility and,Metric,Visualizing testing metrics within CI/CD pipelines can significantly improve the visibility and
+819,"Through effective metric selection and intuitive visualization techniques, this study highlights the",Metric,"Through effective metric selection and intuitive visualization techniques, this study highlights the"
+819,potential of testing metrics to inform both technical and business decisions in software,Metric,potential of testing metrics to inform both technical and business decisions in software
+819,"By making testing metrics accessible and understandable,",Metric,"By making testing metrics accessible and understandable,"
+819,"predictive analytics, could further enhance the utility of testing metrics in CI/CD pipelines",Metric,"predictive analytics, could further enhance the utility of testing metrics in CI/CD pipelines"
+819,"Additionally, establishing standardized metrics for ROI measurement could enable cross-industry",Metric,"Additionally, establishing standardized metrics for ROI measurement could enable cross-industry"
+819,"Ultimately, this research underscores the value of visualizing testing metrics as an",Metric,"Ultimately, this research underscores the value of visualizing testing metrics as an"
+826,Leveraging Metrics to Demonstrate the ROI of TDD and BDD in CI/CD Pipelines,Metric,Leveraging Metrics to Demonstrate the ROI of TDD and BDD in CI/CD Pipelines
+826,Leveraging Metrics to Demonstrate the ROI of TDD,Metric,Leveraging Metrics to Demonstrate the ROI of TDD
+826,"By leveraging specific metrics, the study aims",Metric,"By leveraging specific metrics, the study aims"
+826,the importance of metrics in demonstrating the ROI of TDD and BDD,Metric,the importance of metrics in demonstrating the ROI of TDD and BDD
+826,insights for organizations seeking to adopt these practices and underscores the necessity of metrics,Metric,insights for organizations seeking to adopt these practices and underscores the necessity of metrics
+826,"Continuous Deployment, Return on Investment, Software Development, Metrics, Software",Metric,"Continuous Deployment, Return on Investment, Software Development, Metrics, Software"
+826,This article seeks to examine the metrics that can effectively,Metric,This article seeks to examine the metrics that can effectively
+826,Metrics such,Metric,Metrics such
+826,The integration of metrics into,Metric,The integration of metrics into
+826,metrics were utilized to track progress,Metric,metrics were utilized to track progress
+826,"performance metrics such as defect rates, code coverage, and deployment frequency were collected",Metric,"performance metrics such as defect rates, code coverage, and deployment frequency were collected"
+826,These metrics were compared to historical data from previous projects that did,Metric,These metrics were compared to historical data from previous projects that did
+826,"The ROI was calculated based on improvements in these metrics, with a focus on measuring the",Metric,"The ROI was calculated based on improvements in these metrics, with a focus on measuring the"
+826,Quantitative analysis of the two software projects showed significant improvements in key metrics,Metric,Quantitative analysis of the two software projects showed significant improvements in key metrics
+826,The findings of this research underscore the importance of leveraging metrics to demonstrate the,Metric,The findings of this research underscore the importance of leveraging metrics to demonstrate the
+826,"In conclusion, this research highlights the critical role of metrics in evaluating the ROI of TDD",Metric,"In conclusion, this research highlights the critical role of metrics in evaluating the ROI of TDD"
+826,"continue to seek ways to enhance their development practices, leveraging the metrics outlined in",Metric,"continue to seek ways to enhance their development practices, leveraging the metrics outlined in"
+838,Performance Evaluation,Evaluation Method,"Methodology to assess throughput, latency, and packet loss in CNI plugins."
+838,Throughput,Metric,Measured to compare network performance across different CNIs.
+838,Latency,Metric,Network latency measured to assess CNI plugin performance.
+838,Packet Loss,Metric,Used as a key indicator for evaluating the reliability of container networking solutions.
+849,Accuracy,Metric,A performance metric used to evaluate the correctness of ML predictions.
+856,Multicriteria Decision-Making (MCDM),Evaluation Method,The framework uses MCDM to evaluate and prioritize DevOps practices.
+856,Fuzzy Best–Worst Method (FBWM),Evaluation Method,FBWM is applied to rank the importance of various DevOps practices under uncertainty.
+856,Process maturity,Metric,Maturity of DevOps processes is used to gauge implementation effectiveness.
+872,Multi-Criteria Decision-Making (MCDM),Evaluation Method,The study uses MCDM for selecting the optimal software development methodology.
+872,Logarithmic Bipolar Complex Fuzzy Aggregation Operators,Evaluation Method,A novel fuzzy aggregation approach applied in the decision-making process.
+872,Methodology evaluation,Evaluation Method,A structured framework to evaluate the fitness of different software methodologies.
+887,Performance evaluation,Evaluation Method,Measured throughput and efficiency of various CNIs under test conditions.
+887,Latency measurement,Metric,Used to assess delay characteristics of built-in and custom CNI profiles.
+887,Throughput,Metric,Measured as a key metric to evaluate networking performance under Kubernetes orchestration.
+902,Quantitative metrics,Metric,The study introduces and applies a set of quantitative metrics to measure DevSecOps performance.
+902,Software metrics,Metric,Used to evaluate the impact of DevSecOps practices on system quality.
+902,Evaluation framework,Evaluation Method,A structured framework proposed to evaluate DevSecOps maturity and impact quantitatively.
+953,Performance metrics,Metric,Used to quantitatively evaluate the success of DevOps implementations.
+977,Maintainability metrics,Metric,"Metrics such as cyclomatic complexity, coupling, and cohesion are discussed to evaluate maintainability."
+977,Static analysis,Evaluation Method,Used to measure and compare maintainability metrics in various projects.
+977,Coupling,Metric,One of the metrics used to assess the interdependencies between modules.
+977,Cohesion,Metric,Used to evaluate how closely related the responsibilities of a module are.
+977,Cyclomatic complexity,Metric,"Represents the complexity of control flow in a program, relevant for maintainability evaluation."
+996,Research challenges,Evaluation Method,Identifies gaps and limitations in current IaC practices and tool adoption.
+1001,Impact evaluation,Evaluation Method,Method proposed to assess how DevOps principles affect performance outcomes.
+1001,Performance metrics,Metric,Used to measure the effectiveness of DevOps adoption.
+1001,Lead time,Metric,A specific metric discussed in evaluating DevOps impact.
+1001,Mean time to recovery (MTTR),Metric,Another critical DevOps metric analyzed in the methodology.
