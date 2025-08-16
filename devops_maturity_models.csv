@@ -1,0 +1,64 @@
+paper_id,maturity_model_name,type,dimension,subdimension,level,success_factor,metric,evaluation_method
+4,IBM,Practice-based,Plan and Measure; Develop and Test; Release and Deploy; Monitor and Optimise,,Practiced; Consistent; Reliable; Scaled,,,
+4,Mohamed,Organizational,Quality; Automation; Collaboration; Governance,,5 levels (unnamed),,,
+4,CapGemini,Organizational,Development and Tests; Release and Deployment; Monitoring and Optimisation; Culture and Organisation,,Basic; Emerging; Coordinated; Enhanced; Top-level,,,
+4,HP,Organizational,Processes; Automation; Collaboration,,5 levels (CMMI-based),,,
+4,Bucena,Organizational,Technology; Process; People; Culture,,5 levels (unnamed),,,
+4,EfiCode,Organizational,Organisation and Culture; Environments and Release; Builds and Continuous Integration; Quality Assurance; Visibility and Reporting,,Level 1 to Level 4 (named by practice adoption),,,
+4,De Feijter,Organizational,"Culture and Collaboration; Product, Process and Quality; Foundation",,10 levels,,,
+56,Bucena,Organizational,Technology,Environment provisioning,,,,
+56,Bucena,Organizational,Technology,Automated testing,,,,
+56,Bucena,Organizational,Technology,Data change management,,,,
+56,Bucena,Organizational,Technology,Deployment automation,,,,
+56,Bucena,Organizational,Technology,Build pipeline,,,,
+56,Bucena,Organizational,Technology,Collaboration tools,,,,
+56,Bucena,Organizational,Technology,Configuration management,,,,
+56,Bucena,Organizational,Technology,Monitoring,,,,
+56,Bucena,Organizational,Technology,Issue tracking,,,,
+56,Bucena,Organizational,Process,Delivery process,,,,
+56,Bucena,Organizational,Process,Development process,,,,
+56,Bucena,Organizational,Process,Test process,,,,
+56,Bucena,Organizational,Process,Project management,,,,
+56,Bucena,Organizational,Process,Documentation process,,,,
+56,Bucena,Organizational,Process,Process Standardization,,,,
+56,Bucena,Organizational,People,Team structure,,,,
+56,Bucena,Organizational,People,Learning,,,,
+56,Bucena,Organizational,People,Competence development,,,,
+56,Bucena,Organizational,Culture,Communication,,,,
+56,Bucena,Organizational,Culture,Requirements visibility,,,,
+56,Bucena,Organizational,Culture,Culture management,,,,
+56,Bucena,Organizational,Culture,Collaboration,,,,
+56,Bucena,Organizational,Culture,Innovation,,,,
+98,BizDevOps,Organizational,Organizational,Life cycle model management,Initial,,,
+98,BizDevOps,Organizational,Organizational,Infrastructure Management,Initial,,,
+98,BizDevOps,Organizational,Organizational,Project Portfolio Management,Initial,,,
+98,BizDevOps,Organizational,Organizational,Human resources management,Initial,,,
+98,BizDevOps,Organizational,Organizational,Knowledge management,Initial,,,
+98,BizDevOps,Technical Management,Technical Management,Project planning,Managed,,,
+98,BizDevOps,Technical Management,Technical Management,Continuous Monitoring,Managed,,,
+250,Readiness Model for COSD (RMCOSD),,,"5 readiness levels based on CMMI and industry models (IMM, SOPM)",Readiness assessment based on CSFs (Critical Success Factors) and CBs (Critical Barriers),Successful management of outsourced software development (COSD) activities,"Mixed method: SLR, industrial interviews, surveys, and case studies",
+272,CMMI,Organizational,Project Planning,,Level 2 to 5,Improved process areas with DevOps alignment,Mapped practices from DevOps to CMMI goals,Mapping Analysis
+272,CMMI,Organizational,Configuration Management,,Level 2 to 5,Consistency and reproducibility of environments,Version control and automation tools usage,Practice Mapping
+272,CMMI,Organizational,Measurement and Analysis,,Level 2 to 5,Ability to evaluate DevOps success,"Metrics covering deployment frequency, lead time, MTTR",CMMI-DevOps Comparative Framework
+272,DCMM,Strategy and Governance,,"Initial, Managed, Defined, Quantitatively Managed, Optimizing",,,CMMI-like staged model,
+272,DCMM,Development and Testing,,"Initial, Managed, Defined, Quantitatively Managed, Optimizing",,,Practice-based maturity evaluation,
+272,DCMM,Deployment and Operations,,"Initial, Managed, Defined, Quantitatively Managed, Optimizing",,,Maturity questionnaire & observation,
+272,DCMM,Monitoring and Feedback,,"Initial, Managed, Defined, Quantitatively Managed, Optimizing",,,Capability scoring,
+339,Quantitative Maturity Assessment of DevSecOps,DevSecOps,Security,"Static Analysis, Dynamic Analysis, Monitoring",Quantitative Levels Based on Metric Scores,Security Practice Coverage,Number of tools and tests per security domain,Metric-Based Quantitative Assessment
+339,Quantitative Maturity Assessment of DevSecOps,DevSecOps,Automation,Tool Integration,Quantitative Levels Based on Metric Scores,Degree of Tool Automation,Integration level of CI/CD with security tools,Quantitative Score Aggregation
+504,MMBDO (Maturity Model for BizDevOps),Organizational,Agreement; Organizational; Technical Management; Technical,ISO/IEC 12207-aligned groups,"Level 1 to 5, composed of 25 processes including Continuous Integration, Deployment, Security, etc.","Continuous improvement, tool integration, formal compliance","CI, PI, NI, WI",ISO/IEC 33004-based assessment
+643,CALMS,Framework,Culture; Automation; Lean; Measurement; Sharing,,No specific levels defined,Collaboration; Efficiency; Streamlined workflows,Practice presence,Conceptual
+643,IBM,Practice-based,Plan and Measure; Develop and Test; Release and Deploy; Monitor and Optimize,Adoption Paths,Practiced → Scaled (4 levels),Business-aligned incremental adoption,Practice evolution,Practice matrix
+643,Mohamed,CMMI-based,Quality; Automation; Communication; Governance,,5 levels (Initial → Optimizing),Smooth workflow; Resilience; Security,DOMC Calculator,Conceptual with tooling support
+643,CapGemini,Organizational,People; Process; Tools,,5 stages (from separate teams to One Team),Cultural evolution; Automation,Assessment through structured levels,Case study and model proposition
+643,xMatters,Survey-based,Culture & Alignment; Operations & Support; Continuous Delivery; Design & Architecture; Test & Validation,,Base → Expert (5 levels),Survey-driven insights for maturity,Self-assessment survey,Empirical (survey)
+643,Bucena,Organizational,Technology; Process; People; Culture,,5 levels (defined by case studies),SME focused transformation,Capability evidence,Case study based
+643,De Feijter,Competency Model,"Culture & Collaboration; Product, Process & Quality; Foundation",16 Focus Areas,10 levels (0–9),Granular capability evolution,Observational capability analysis,Capability model
+643,Radstaak,Process-focused,Culture; Communication & Collaboration; Measurement; Monitoring; Automation,,Not clearly defined,Organizational guidance for maturity,Qualitative validation,Literature + interviews + case
+643,Teixeira,Capability-based,People; Process; Technology; Culture,"6 Capabilities: CI, CD, Monitoring, Testing, Feedback Loops, IaC",4 levels,Determinant capability factors,Practitioner interviews,SLR + Empirical
+643,Neubrand,Goal-based,Culture & Work Environment; Lean Management; Transformational Leadership; Continuous Delivery; Lean Product Management,,Radar chart-based (implicit levels),Quantified maturity across goals,GQM with 98 questions,Survey + visualization
+643,DMM4SSC,SME-specific,Culture; Automation; Sharing; Quality; Communication & Feedback; Code; Infrastructure,,5 levels (fixed),Targeted SME DevOps adoption,Capability improvement,Conceptual
+707,OpenSAMM,Governance,,,"Policy & Compliance, Education & Guidance, Strategy & Metrics",,Scoring of activities in each function,
+707,OpenSAMM,Construction,,,"Security Requirements, Secure Architecture, Secure Build",,Scoring of activities in each function,
+707,OpenSAMM,Verification,,,"Design Review, Code Review, Security Testing",,Scoring of activities in each function,
+707,OpenSAMM,Deployment,,,"Vulnerability Management, Environment Hardening, Operational Enablement",,Scoring of activities in each function,
